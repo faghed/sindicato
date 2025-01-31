@@ -1,0 +1,2159 @@
+[
+    {
+        "cargo": "Agente Cultural",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1548.99
+            },
+            {
+                "ano": 2022,
+                "salario": 1695.29
+            },
+            {
+                "ano": 2023,
+                "salario": 1768.1
+            },
+            {
+                "ano": 2024,
+                "salario": 1955.0
+            }
+        ]
+    },
+    {
+        "cargo": "Agente de Defesa do Consumidor",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1806.49
+            },
+            {
+                "ano": 2022,
+                "salario": 1977.1
+            },
+            {
+                "ano": 2023,
+                "salario": 2062.01
+            },
+            {
+                "ano": 2024,
+                "salario": 2279.98
+            }
+        ]
+    },
+    {
+        "cargo": "Agente de Saúde Ambiental",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1369.04
+            },
+            {
+                "ano": 2022,
+                "salario": 1469.15
+            },
+            {
+                "ano": 2023,
+                "salario": 1562.69
+            },
+            {
+                "ano": 2024,
+                "salario": 1694.23
+            }
+        ]
+    },
+    {
+        "cargo": "Agente de Transporte e Transito",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 2950.88
+            },
+            {
+                "ano": 2023,
+                "salario": 3368.31
+            },
+            {
+                "ano": 2024,
+                "salario": 3724.38
+            }
+        ]
+    },
+    {
+        "cargo": "Agente Gráfico",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1806.49
+            },
+            {
+                "ano": 2022,
+                "salario": 1977.1
+            },
+            {
+                "ano": 2023,
+                "salario": 2062.01
+            },
+            {
+                "ano": 2024,
+                "salario": 2279.98
+            }
+        ]
+    },
+    {
+        "cargo": "Agente Municipal",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1369.04
+            },
+            {
+                "ano": 2022,
+                "salario": 1498.34
+            },
+            {
+                "ano": 2023,
+                "salario": 1562.69
+            },
+            {
+                "ano": 2024,
+                "salario": 1727.88
+            }
+        ]
+    },
+    {
+        "cargo": "Agente Social",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1806.49
+            },
+            {
+                "ano": 2022,
+                "salario": 1977.1
+            },
+            {
+                "ano": 2023,
+                "salario": 2062.01
+            },
+            {
+                "ano": 2024,
+                "salario": 2279.98
+            }
+        ]
+    },
+    {
+        "cargo": "Almoxarife",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1548.99
+            },
+            {
+                "ano": 2022,
+                "salario": 1695.29
+            },
+            {
+                "ano": 2023,
+                "salario": 1768.1
+            },
+            {
+                "ano": 2024,
+                "salario": 1955.0
+            }
+        ]
+    },
+    {
+        "cargo": "Analista de Comunicação",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Analista de Gestão Documental",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Analista de Meio Ambiente",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Analista de Planejamento e Gestão",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Analista de Turismo",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Analista Econômico Financeiro",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Analista em Geoprocessamento",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Apoiador Institucional",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 2800.0
+            },
+            {
+                "ano": 2022,
+                "salario": 2800.0
+            },
+            {
+                "ano": 2023,
+                "salario": 2856.0
+            },
+            {
+                "ano": 2024,
+                "salario": 3157.9
+            }
+        ]
+    },
+    {
+        "cargo": "Arquiteto",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 7344.38
+            },
+            {
+                "ano": 2022,
+                "salario": 8038.06
+            },
+            {
+                "ano": 2023,
+                "salario": 8383.3
+            },
+            {
+                "ano": 2024,
+                "salario": 9269.48
+            }
+        ]
+    },
+    {
+        "cargo": "Assessor de Políticas Públicas",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 3500.0
+            },
+            {
+                "ano": 2022,
+                "salario": 3500.0
+            },
+            {
+                "ano": 2023,
+                "salario": 3570.0
+            },
+            {
+                "ano": 2024,
+                "salario": 3947.98
+            }
+        ]
+    },
+    {
+        "cargo": "Assessor de Saúde",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 7000.0
+            },
+            {
+                "ano": 2022,
+                "salario": 7000.0
+            },
+            {
+                "ano": 2023,
+                "salario": 7140.0
+            },
+            {
+                "ano": 2024,
+                "salario": 7894.76
+            }
+        ]
+    },
+    {
+        "cargo": "Assessor Especial",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 8500.0
+            },
+            {
+                "ano": 2022,
+                "salario": 8500.0
+            },
+            {
+                "ano": 2023,
+                "salario": 8670.0
+            },
+            {
+                "ano": 2024,
+                "salario": 9586.49
+            }
+        ]
+    },
+    {
+        "cargo": "Assistente de Desenvolvimento",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1369.04
+            },
+            {
+                "ano": 2022,
+                "salario": 1498.34
+            },
+            {
+                "ano": 2023,
+                "salario": 1562.69
+            },
+            {
+                "ano": 2024,
+                "salario": 1727.88
+            }
+        ]
+    },
+    {
+        "cargo": "Assistente Social",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Assistente Técnico Administrativo",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1806.49
+            },
+            {
+                "ano": 2022,
+                "salario": 1977.1
+            },
+            {
+                "ano": 2023,
+                "salario": 2062.01
+            },
+            {
+                "ano": 2024,
+                "salario": 2279.98
+            }
+        ]
+    },
+    {
+        "cargo": "Atendente de Enfermagem",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1548.99
+            },
+            {
+                "ano": 2022,
+                "salario": 1695.29
+            },
+            {
+                "ano": 2024,
+                "salario": 1955.0
+            }
+        ]
+    },
+    {
+        "cargo": "Auxiliar de Desenvolvimento Infantil",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1369.04
+            },
+            {
+                "ano": 2022,
+                "salario": 1498.34
+            },
+            {
+                "ano": 2023,
+                "salario": 1562.69
+            },
+            {
+                "ano": 2024,
+                "salario": 1727.88
+            }
+        ]
+    },
+    {
+        "cargo": "Auxiliar de Enfermagem",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1548.99
+            },
+            {
+                "ano": 2022,
+                "salario": 1695.29
+            },
+            {
+                "ano": 2023,
+                "salario": 1768.1
+            },
+            {
+                "ano": 2024,
+                "salario": 1955.0
+            }
+        ]
+    },
+    {
+        "cargo": "Auxiliar de Saúde",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1548.99
+            },
+            {
+                "ano": 2022,
+                "salario": 1695.29
+            },
+            {
+                "ano": 2023,
+                "salario": 1768.1
+            },
+            {
+                "ano": 2024,
+                "salario": 1955.0
+            }
+        ]
+    },
+    {
+        "cargo": "Auxiliar de Saúde Bucal",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1548.99
+            },
+            {
+                "ano": 2022,
+                "salario": 1695.29
+            },
+            {
+                "ano": 2023,
+                "salario": 1768.1
+            },
+            {
+                "ano": 2024,
+                "salario": 1955.0
+            }
+        ]
+    },
+    {
+        "cargo": "Bibliotecário",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Chefe de Gabinete de Secretaria",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 6500.0
+            },
+            {
+                "ano": 2022,
+                "salario": 6500.0
+            },
+            {
+                "ano": 2023,
+                "salario": 6630.0
+            },
+            {
+                "ano": 2024,
+                "salario": 7330.85
+            }
+        ]
+    },
+    {
+        "cargo": "Chefe de Gabinete do Prefeito",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 17521.93
+            },
+            {
+                "ano": 2022,
+                "salario": 17251.93
+            },
+            {
+                "ano": 2023,
+                "salario": 17872.37
+            },
+            {
+                "ano": 2024,
+                "salario": 19761.63
+            }
+        ]
+    },
+    {
+        "cargo": "Chefe de Gabinete do Subprefeito",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 9500.0
+            }
+        ]
+    },
+    {
+        "cargo": "Chefe de Gabinete do Vice-Prefeito",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 9500.0
+            }
+        ]
+    },
+    {
+        "cargo": "Cirurgião Dentista",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            }
+        ]
+    },
+    {
+        "cargo": "Comprador",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1806.47
+            },
+            {
+                "ano": 2022,
+                "salario": 1977.1
+            },
+            {
+                "ano": 2023,
+                "salario": 2062.01
+            },
+            {
+                "ano": 2024,
+                "salario": 2279.98
+            }
+        ]
+    },
+    {
+        "cargo": "Condutor de Ambulância",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1807.1
+            },
+            {
+                "ano": 2022,
+                "salario": 1977.1
+            },
+            {
+                "ano": 2023,
+                "salario": 2062.01
+            },
+            {
+                "ano": 2024,
+                "salario": 2279.98
+            }
+        ]
+    },
+    {
+        "cargo": "Conselheiro Tutelar",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 5692.05
+            },
+            {
+                "ano": 2022,
+                "salario": 5692.04
+            },
+            {
+                "ano": 2023,
+                "salario": 5692.04
+            },
+            {
+                "ano": 2024,
+                "salario": 5692.04
+            }
+        ]
+    },
+    {
+        "cargo": "Contador",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Coordenador de Divisão",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 5200.0
+            },
+            {
+                "ano": 2022,
+                "salario": 5200.0
+            },
+            {
+                "ano": 2023,
+                "salario": 5304.0
+            },
+            {
+                "ano": 2024,
+                "salario": 5864.67
+            }
+        ]
+    },
+    {
+        "cargo": "Diretor de Departamento - Complexidade II",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 8000.0
+            },
+            {
+                "ano": 2022,
+                "salario": 8000.0
+            },
+            {
+                "ano": 2023,
+                "salario": 8160.0
+            },
+            {
+                "ano": 2024,
+                "salario": 9022.58
+            }
+        ]
+    },
+    {
+        "cargo": "Diretor de Departamento - Complexidade I",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 9000.0
+            },
+            {
+                "ano": 2022,
+                "salario": 9000.0
+            },
+            {
+                "ano": 2023,
+                "salario": 9180.0
+            },
+            {
+                "ano": 2024,
+                "salario": 10150.4
+            }
+        ]
+    },
+    {
+        "cargo": "Diretor de Departamento - Complexidade III",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 7000.0
+            },
+            {
+                "ano": 2022,
+                "salario": 7000.0
+            },
+            {
+                "ano": 2023,
+                "salario": 7140.0
+            },
+            {
+                "ano": 2024,
+                "salario": 7894.76
+            }
+        ]
+    },
+    {
+        "cargo": "Diretor Presidente (Amlurb)",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 17521.0
+            }
+        ]
+    },
+    {
+        "cargo": "Eletricista",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1806.49
+            },
+            {
+                "ano": 2022,
+                "salario": 1938.39
+            },
+            {
+                "ano": 2023,
+                "salario": 2021.64
+            },
+            {
+                "ano": 2024,
+                "salario": 2235.35
+            }
+        ]
+    },
+    {
+        "cargo": "Encarregado de Plantão",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1777.46
+            },
+            {
+                "ano": 2022,
+                "salario": 1945.34
+            },
+            {
+                "ano": 2023,
+                "salario": 2028.89
+            },
+            {
+                "ano": 2024,
+                "salario": 2243.36
+            }
+        ]
+    },
+    {
+        "cargo": "Enfermeiro",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Enfermeiro do PSF",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 6363.84
+            },
+            {
+                "ano": 2022,
+                "salario": 6964.9
+            },
+            {
+                "ano": 2023,
+                "salario": 7264.04
+            },
+            {
+                "ano": 2024,
+                "salario": 8031.91
+            }
+        ]
+    },
+    {
+        "cargo": "Engenheiro",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 7344.39
+            },
+            {
+                "ano": 2022,
+                "salario": 8038.06
+            },
+            {
+                "ano": 2023,
+                "salario": 8383.3
+            },
+            {
+                "ano": 2024,
+                "salario": 9269.48
+            }
+        ]
+    },
+    {
+        "cargo": "Farmacêutico",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Fiscal Municipal",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 2950.88
+            },
+            {
+                "ano": 2022,
+                "salario": 3229.6
+            },
+            {
+                "ano": 2023,
+                "salario": 3368.31
+            },
+            {
+                "ano": 2024,
+                "salario": 3724.38
+            }
+        ]
+    },
+    {
+        "cargo": "Fisioterapeuta",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Fonoaudiólogo",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Fotógrafo",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1806.49
+            },
+            {
+                "ano": 2022,
+                "salario": 1977.1
+            },
+            {
+                "ano": 2023,
+                "salario": 2062.01
+            },
+            {
+                "ano": 2024,
+                "salario": 2279.98
+            }
+        ]
+    },
+    {
+        "cargo": "Geografo",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Geólogo",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Guarda Civil Municipal",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 2969.13
+            },
+            {
+                "ano": 2022,
+                "salario": 3249.57
+            },
+            {
+                "ano": 2023,
+                "salario": 3389.14
+            },
+            {
+                "ano": 2024,
+                "salario": 3747.39
+            }
+        ]
+    },
+    {
+        "cargo": "Mecânico",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1806.49
+            },
+            {
+                "ano": 2022,
+                "salario": 1977.1
+            },
+            {
+                "ano": 2023,
+                "salario": 2062.01
+            },
+            {
+                "ano": 2024,
+                "salario": 2279.98
+            }
+        ]
+    },
+    {
+        "cargo": "Médico Do PSF",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 17475.13
+            }
+        ]
+    },
+    {
+        "cargo": "Médico Plantonista (por hora)",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 94.36
+            }
+        ]
+    },
+    {
+        "cargo": "Medico Veterinário",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 7344.39
+            },
+            {
+                "ano": 2022,
+                "salario": 8038.06
+            },
+            {
+                "ano": 2023,
+                "salario": 8383.3
+            },
+            {
+                "ano": 2024,
+                "salario": 9269.48
+            }
+        ]
+    },
+    {
+        "cargo": "Monitor de Alunos",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1369.04
+            },
+            {
+                "ano": 2022,
+                "salario": 1498.34
+            },
+            {
+                "ano": 2023,
+                "salario": 1562.69
+            },
+            {
+                "ano": 2024,
+                "salario": 1717.88
+            }
+        ]
+    },
+    {
+        "cargo": "Motorista",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1806.49
+            },
+            {
+                "ano": 2022,
+                "salario": 1977.1
+            },
+            {
+                "ano": 2023,
+                "salario": 2062.01
+            },
+            {
+                "ano": 2024,
+                "salario": 2279.98
+            }
+        ]
+    },
+    {
+        "cargo": "Museólogo",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Nutricionista",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Oficial de Manutenção",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1518.66
+            },
+            {
+                "ano": 2022,
+                "salario": 1498.34
+            },
+            {
+                "ano": 2023,
+                "salario": 1733.49
+            },
+            {
+                "ano": 2024,
+                "salario": 1916.72
+            }
+        ]
+    },
+    {
+        "cargo": "Operador de Máquinas",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 2544.43
+            },
+            {
+                "ano": 2022,
+                "salario": 2784.76
+            }
+        ]
+    },
+    {
+        "cargo": "Prefeito",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 18283.77
+            },
+            {
+                "ano": 2022,
+                "salario": 18823.77
+            },
+            {
+                "ano": 2023,
+                "salario": 18649.45
+            },
+            {
+                "ano": 2024,
+                "salario": 20620.84
+            }
+        ]
+    },
+    {
+        "cargo": "Presidente do Embuprev",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 17521.93
+            }
+        ]
+    },
+    {
+        "cargo": "Procurador",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 7344.39
+            },
+            {
+                "ano": 2022,
+                "salario": 8038.06
+            },
+            {
+                "ano": 2023,
+                "salario": 8383.3
+            },
+            {
+                "ano": 2024,
+                "salario": 9269.48
+            }
+        ]
+    },
+    {
+        "cargo": "Professor Adjunto",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 998.94
+            },
+            {
+                "ano": 2022,
+                "salario": 1145.64
+            },
+            {
+                "ano": 2023,
+                "salario": 1085.98
+            },
+            {
+                "ano": 2024,
+                "salario": 1321.15
+            }
+        ]
+    },
+    {
+        "cargo": "Professor de Desenvolvimento Infantil",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 3140.32
+            },
+            {
+                "ano": 2022,
+                "salario": 3436.92
+            },
+            {
+                "ano": 2023,
+                "salario": 3584.53
+            },
+            {
+                "ano": 2024,
+                "salario": 3963.46
+            }
+        ]
+    },
+    {
+        "cargo": "Professor Educ. Básica I",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 3140.32
+            },
+            {
+                "ano": 2022,
+                "salario": 3436.92
+            },
+            {
+                "ano": 2024,
+                "salario": 3963.46
+            }
+        ]
+    },
+    {
+        "cargo": "Professor Educ. Básica II",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 3140.32
+            },
+            {
+                "ano": 2022,
+                "salario": 3436.92
+            },
+            {
+                "ano": 2024,
+                "salario": 3963.46
+            }
+        ]
+    },
+    {
+        "cargo": "Psicólogo",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Secretário Adjunto",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 9500.0
+            },
+            {
+                "ano": 2022,
+                "salario": 9500.0
+            },
+            {
+                "ano": 2023,
+                "salario": 9690.0
+            },
+            {
+                "ano": 2024,
+                "salario": 10150.4
+            }
+        ]
+    },
+    {
+        "cargo": "Secretario de Escola",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1548.99
+            },
+            {
+                "ano": 2023,
+                "salario": 1768.1
+            },
+            {
+                "ano": 2024,
+                "salario": 1955.0
+            }
+        ]
+    },
+    {
+        "cargo": "Secretário Municipal",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 17521.93
+            },
+            {
+                "ano": 2022,
+                "salario": 17521.93
+            },
+            {
+                "ano": 2023,
+                "salario": 17872.37
+            },
+            {
+                "ano": 2024,
+                "salario": 19761.63
+            }
+        ]
+    },
+    {
+        "cargo": "Sepultador",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1548.99
+            },
+            {
+                "ano": 2022,
+                "salario": 1662.1
+            },
+            {
+                "ano": 2023,
+                "salario": 1733.49
+            },
+            {
+                "ano": 2024,
+                "salario": 1916.72
+            }
+        ]
+    },
+    {
+        "cargo": "Subprefeito",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 17521.93
+            },
+            {
+                "ano": 2022,
+                "salario": 17521.93
+            },
+            {
+                "ano": 2023,
+                "salario": 17872.37
+            },
+            {
+                "ano": 2024,
+                "salario": 19761.63
+            }
+        ]
+    },
+    {
+        "cargo": "Téc. Enfermagem do PSF",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 2544.47
+            },
+            {
+                "ano": 2022,
+                "salario": 2784.76
+            }
+        ]
+    },
+    {
+        "cargo": "Técnico de Edificações",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1806.49
+            },
+            {
+                "ano": 2023,
+                "salario": 2062.01
+            },
+            {
+                "ano": 2024,
+                "salario": 2279.98
+            }
+        ]
+    },
+    {
+        "cargo": "Técnico de Enfermagem",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1806.49
+            },
+            {
+                "ano": 2024,
+                "salario": 2279.98
+            }
+        ]
+    },
+    {
+        "cargo": "Técnico de Segurança do Trabalho",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1806.49
+            },
+            {
+                "ano": 2023,
+                "salario": 2062.01
+            },
+            {
+                "ano": 2024,
+                "salario": 2279.98
+            }
+        ]
+    },
+    {
+        "cargo": "Técnico Desportivo",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Técnico em Saúde Bucal",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1806.49
+            },
+            {
+                "ano": 2023,
+                "salario": 2062.01
+            },
+            {
+                "ano": 2024,
+                "salario": 2279.98
+            }
+        ]
+    },
+    {
+        "cargo": "Técnico em Tecnologia da Informação",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1806.49
+            },
+            {
+                "ano": 2023,
+                "salario": 2062.01
+            },
+            {
+                "ano": 2024,
+                "salario": 2279.98
+            }
+        ]
+    },
+    {
+        "cargo": "Técnico Imobilização Ortopédica",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1806.49
+            },
+            {
+                "ano": 2023,
+                "salario": 2062.01
+            },
+            {
+                "ano": 2024,
+                "salario": 2279.98
+            }
+        ]
+    },
+    {
+        "cargo": "Telefonista",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1316.06
+            },
+            {
+                "ano": 2022,
+                "salario": 1262.37
+            },
+            {
+                "ano": 2023,
+                "salario": 1316.59
+            },
+            {
+                "ano": 2024,
+                "salario": 1455.77
+            }
+        ]
+    },
+    {
+        "cargo": "Terapeuta Ocupacional",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 4955.11
+            },
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Topógrafo",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 1806.49
+            },
+            {
+                "ano": 2022,
+                "salario": 1977.1
+            },
+            {
+                "ano": 2023,
+                "salario": 2062.01
+            },
+            {
+                "ano": 2024,
+                "salario": 2279.98
+            }
+        ]
+    },
+    {
+        "cargo": "Vice-Prefeito",
+        "salarios": [
+            {
+                "ano": 2021,
+                "salario": 17521.93
+            },
+            {
+                "ano": 2022,
+                "salario": 17521.93
+            },
+            {
+                "ano": 2023,
+                "salario": 17872.37
+            },
+            {
+                "ano": 2024,
+                "salario": 19761.63
+            }
+        ]
+    },
+    {
+        "cargo": "Agente de Transporte E Transito",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 3229.6
+            }
+        ]
+    },
+    {
+        "cargo": "Assessor Técnico Administrativo",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 2784.76
+            },
+            {
+                "ano": 2023,
+                "salario": 2904.37
+            },
+            {
+                "ano": 2024,
+                "salario": 3211.39
+            }
+        ]
+    },
+    {
+        "cargo": "Chefe do Gabinete do Subprefeito",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 9500.0
+            },
+            {
+                "ano": 2023,
+                "salario": 9690.0
+            },
+            {
+                "ano": 2024,
+                "salario": 10714.31
+            }
+        ]
+    },
+    {
+        "cargo": "Chefe do Gabinete do Vice-Prefeito",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 9500.0
+            },
+            {
+                "ano": 2023,
+                "salario": 9690.0
+            },
+            {
+                "ano": 2024,
+                "salario": 10714.31
+            }
+        ]
+    },
+    {
+        "cargo": "Cirurgião Dentista 20h",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            },
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            }
+        ]
+    },
+    {
+        "cargo": "Cirurgião Dentista 40h",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 10846.24
+            },
+            {
+                "ano": 2023,
+                "salario": 11312.08
+            }
+        ]
+    },
+    {
+        "cargo": "Diretor de Escola II",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 5561.86
+            },
+            {
+                "ano": 2023,
+                "salario": 5800.74
+            },
+            {
+                "ano": 2024,
+                "salario": 6413.92
+            }
+        ]
+    },
+    {
+        "cargo": "Educador Docente Infantil",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 3436.92
+            },
+            {
+                "ano": 2023,
+                "salario": 3584.53
+            },
+            {
+                "ano": 2024,
+                "salario": 3963.46
+            }
+        ]
+    },
+    {
+        "cargo": "Medico do PSF",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 19125.66
+            },
+            {
+                "ano": 2023,
+                "salario": 19947.11
+            },
+            {
+                "ano": 2024,
+                "salario": 22055.69
+            }
+        ]
+    },
+    {
+        "cargo": "Medico Plantonista (por hora)",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 103.27
+            },
+            {
+                "ano": 2023,
+                "salario": 107.7
+            },
+            {
+                "ano": 2024,
+                "salario": 119.09
+            }
+        ]
+    },
+    {
+        "cargo": "Presidente Embuprev",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 17521.93
+            },
+            {
+                "ano": 2023,
+                "salario": 17872.37
+            },
+            {
+                "ano": 2024,
+                "salario": 19761.63
+            }
+        ]
+    },
+    {
+        "cargo": "Secretário de Escola",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 1695.29
+            }
+        ]
+    },
+    {
+        "cargo": "Téc. de Edificações",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 1977.1
+            }
+        ]
+    },
+    {
+        "cargo": "Téc. de Enfermagem",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 1977.1
+            }
+        ]
+    },
+    {
+        "cargo": "Téc. de Segurança Do Trabalho",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 1977.1
+            }
+        ]
+    },
+    {
+        "cargo": "Téc. Desportivo",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 5423.12
+            }
+        ]
+    },
+    {
+        "cargo": "Téc. em Saúde Bucal",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 1977.1
+            }
+        ]
+    },
+    {
+        "cargo": "Téc. em Tecnologia Da Informação",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 1977.1
+            }
+        ]
+    },
+    {
+        "cargo": "Téc. em Imobilização Ortopédica",
+        "salarios": [
+            {
+                "ano": 2022,
+                "salario": 1977.1
+            }
+        ]
+    },
+    {
+        "cargo": "Agente Comunitário de Saúde",
+        "salarios": [
+            {
+                "ano": 2023,
+                "salario": 2640.0
+            },
+            {
+                "ano": 2024,
+                "salario": 3036.0
+            }
+        ]
+    },
+    {
+        "cargo": "Agente de Combate a Endemias",
+        "salarios": [
+            {
+                "ano": 2023,
+                "salario": 2640.0
+            }
+        ]
+    },
+    {
+        "cargo": "Analista Jurídico",
+        "salarios": [
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Atendente De Enfermagem",
+        "salarios": [
+            {
+                "ano": 2023,
+                "salario": 1768.1
+            }
+        ]
+    },
+    {
+        "cargo": "Auxiliar Educacional",
+        "salarios": [
+            {
+                "ano": 2023,
+                "salario": 1562.69
+            },
+            {
+                "ano": 2024,
+                "salario": 1727.88
+            }
+        ]
+    },
+    {
+        "cargo": "Operador de Maquinas",
+        "salarios": [
+            {
+                "ano": 2023,
+                "salario": 2904.37
+            },
+            {
+                "ano": 2024,
+                "salario": 3211.39
+            }
+        ]
+    },
+    {
+        "cargo": "Professor Educação Básica I",
+        "salarios": [
+            {
+                "ano": 2023,
+                "salario": 3584.53
+            }
+        ]
+    },
+    {
+        "cargo": "Professor Educação Básica II",
+        "salarios": [
+            {
+                "ano": 2023,
+                "salario": 3584.53
+            }
+        ]
+    },
+    {
+        "cargo": "Psicopedagogo",
+        "salarios": [
+            {
+                "ano": 2023,
+                "salario": 5656.04
+            },
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Técnico de Enfermagem do PSF",
+        "salarios": [
+            {
+                "ano": 2023,
+                "salario": 2904.37
+            }
+        ]
+    },
+    {
+        "cargo": "Técnico De Enfermagem",
+        "salarios": [
+            {
+                "ano": 2023,
+                "salario": 2062.01
+            }
+        ]
+    },
+    {
+        "cargo": "Agente de Combate as Endemias",
+        "salarios": [
+            {
+                "ano": 2024,
+                "salario": 3036.0
+            }
+        ]
+    },
+    {
+        "cargo": "Cirurgião Dentista 20H",
+        "salarios": [
+            {
+                "ano": 2024,
+                "salario": 6253.93
+            }
+        ]
+    },
+    {
+        "cargo": "Cirurgião Dentista 40H",
+        "salarios": [
+            {
+                "ano": 2024,
+                "salario": 12507.86
+            }
+        ]
+    },
+    {
+        "cargo": "Tec. Enfermagem do PSF",
+        "salarios": [
+            {
+                "ano": 2024,
+                "salario": 3211.39
+            }
+        ]
+    }
+]
