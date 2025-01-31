@@ -8,37 +8,726 @@
 </head>
 <body>
     <div class="container">
-        <h1>Comparação de Salários 2021-2024</h1>
+        <h1>Comparação de Salários 2023-2024</h1>
         
         <div class="filters">
-            <label for="cargo">Filtrar por Cargo:</label>
-            <input type="text" id="cargo" placeholder="Digite o cargo...">
-            
-            <label for="variacao">Filtrar por Variação Percentual:</label>
-            <select id="variacao">
-                <option value="">Todos</option>
-                <option value="5">5% ou mais</option>
-                <option value="10">10% ou mais</option>
-                <option value="15">15% ou mais</option>
-                <option value="20">20% ou mais</option>
-            </select>
-        </div>
+    <label for="cargo">Filtrar por Cargo:</label>
+    <input type="text" id="cargo" placeholder="Digite o cargo...">
+    
+    <label for="variacao">Filtrar por Variação Percentual:</label>
+    <select id="variacao">
+        <option value="">Todos</option>
+        <option value="5">5% ou mais</option>
+        <option value="10">10% ou mais</option>
+        <option value="15">15% ou mais</option>
+        <option value="20">20% ou mais</option>
+    </select>
+</div>
 
         <table id="salaryTable">
             <thead>
                 <tr>
                     <th>Cargo</th>
-                    <th>Salário 2021</th>
-                    <th>Salário 2022</th>
-                    <th>Variação 2021-2022</th>
                     <th>Salário 2023</th>
-                    <th>Variação 2022-2023</th>
                     <th>Salário 2024</th>
-                    <th>Variação 2023-2024</th>
+                    <th>Variação Absoluta</th>
+                    <th>Variação Percentual</th>
                 </tr>
             </thead>
             <tbody>
-                <!-- Os dados serão preenchidos dinamicamente aqui -->
+                <tr>
+                    <td>Agente Comunitário de Saúde</td>
+                    <td>2640.00</td>
+                    <td>3036.00</td>
+                    <td>396.00</td>
+                    <td>15.00%</td>
+                </tr>
+                <tr>
+                    <td>Agente Cultural</td>
+                    <td>1768.10</td>
+                    <td>1955.00</td>
+                    <td>186.90</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Agente de Combate a Endemias</td>
+                    <td>2640.00</td>
+                    <td>3036.00</td>
+                    <td>396.00</td>
+                    <td>15.00%</td>
+                </tr>
+                <tr>
+                    <td>Agente de Defesa do Consumidor</td>
+                    <td>2062.01</td>
+                    <td>2279.98</td>
+                    <td>217.97</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Agente de Saúde Ambiental</td>
+                    <td>1562.69</td>
+                    <td>1694.23</td>
+                    <td>131.54</td>
+                    <td>8.42%</td>
+                </tr>
+                <tr>
+                    <td>Agente de Transporte e Trânsito</td>
+                    <td>3368.31</td>
+                    <td>3724.38</td>
+                    <td>356.07</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Agente Gráfico</td>
+                    <td>2062.01</td>
+                    <td>2279.98</td>
+                    <td>217.97</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Agente Municipal</td>
+                    <td>1562.69</td>
+                    <td>1727.88</td>
+                    <td>165.19</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Agente Social</td>
+                    <td>2062.01</td>
+                    <td>2279.98</td>
+                    <td>217.97</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Almoxarife</td>
+                    <td>1768.10</td>
+                    <td>1955.00</td>
+                    <td>186.90</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Analista de Comunicação</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Analista de Gestão Documental</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Analista de Meio Ambiente</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Analista de Planejamento e Gestão</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Analista de Turismo</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Analista Econômico Financeiro</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Analista em Geoprocessamento</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Analista Jurídico</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Apoiador Institucional</td>
+                    <td>2856.00</td>
+                    <td>3157.90</td>
+                    <td>301.90</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Arquiteto</td>
+                    <td>8383.30</td>
+                    <td>9269.48</td>
+                    <td>886.18</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Assessor de Políticas Públicas</td>
+                    <td>3570.00</td>
+                    <td>3947.98</td>
+                    <td>377.98</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Assessor de Saúde</td>
+                    <td>7140.00</td>
+                    <td>7894.76</td>
+                    <td>754.76</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Assessor Especial</td>
+                    <td>8670.00</td>
+                    <td>9586.49</td>
+                    <td>916.49</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Assessor Técnico Administrativo</td>
+                    <td>2904.37</td>
+                    <td>3211.39</td>
+                    <td>307.02</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Assistente de Desenvolvimento</td>
+                    <td>1562.69</td>
+                    <td>1727.88</td>
+                    <td>165.19</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Assistente Social</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Assistente Técnico Administrativo</td>
+                    <td>2062.01</td>
+                    <td>2279.98</td>
+                    <td>217.97</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Atendente de Enfermagem</td>
+                    <td>1768.10</td>
+                    <td>1955.00</td>
+                    <td>186.90</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Auxiliar de Desenvolvimento Infantil</td>
+                    <td>1562.69</td>
+                    <td>1727.88</td>
+                    <td>165.19</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Auxiliar de Enfermagem</td>
+                    <td>1768.10</td>
+                    <td>1955.00</td>
+                    <td>186.90</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Auxiliar de Saúde</td>
+                    <td>1768.10</td>
+                    <td>1955.00</td>
+                    <td>186.90</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Auxiliar de Saúde Bucal</td>
+                    <td>1768.10</td>
+                    <td>1955.00</td>
+                    <td>186.90</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Auxiliar Educacional</td>
+                    <td>1562.69</td>
+                    <td>1727.88</td>
+                    <td>165.19</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Bibliotecário</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Chefe de Gabinete de Secretaria</td>
+                    <td>6630.00</td>
+                    <td>7330.85</td>
+                    <td>700.85</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Chefe de Gabinete do Prefeito</td>
+                    <td>17872.37</td>
+                    <td>19761.63</td>
+                    <td>1889.26</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Chefe do Gabinete do Subprefeito</td>
+                    <td>9690.00</td>
+                    <td>10714.31</td>
+                    <td>1024.31</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Chefe do Gabinete do Vice-Prefeito</td>
+                    <td>9690.00</td>
+                    <td>10714.31</td>
+                    <td>1024.31</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Cirurgião Dentista 20h</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Cirurgião Dentista 40h</td>
+                    <td>11312.08</td>
+                    <td>12507.86</td>
+                    <td>1195.78</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Comprador</td>
+                    <td>2062.01</td>
+                    <td>2279.98</td>
+                    <td>217.97</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Condutor de Ambulância</td>
+                    <td>2062.01</td>
+                    <td>2279.98</td>
+                    <td>217.97</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Conselheiro Tutelar</td>
+                    <td>5692.04</td>
+                    <td>5692.04</td>
+                    <td>0.00</td>
+                    <td>0.00%</td>
+                </tr>
+                <tr>
+                    <td>Contador</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Coordenador de Divisão</td>
+                    <td>5304.00</td>
+                    <td>5864.67</td>
+                    <td>560.67</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Diretor de Departamento - Complexidade I</td>
+                    <td>9180.00</td>
+                    <td>10150.40</td>
+                    <td>970.40</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Diretor de Departamento - Complexidade II</td>
+                    <td>8160.00</td>
+                    <td>9022.58</td>
+                    <td>862.58</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Diretor de Departamento - Complexidade III</td>
+                    <td>7140.00</td>
+                    <td>7894.76</td>
+                    <td>754.76</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Diretor de Escola II</td>
+                    <td>5800.74</td>
+                    <td>6413.92</td>
+                    <td>613.18</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Educador Docente Infantil</td>
+                    <td>3584.53</td>
+                    <td>3963.46</td>
+                    <td>378.93</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Eletricista</td>
+                    <td>2021.64</td>
+                    <td>2235.35</td>
+                    <td>213.71</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Encarregado de Plantão</td>
+                    <td>2028.89</td>
+                    <td>2243.36</td>
+                    <td>214.47</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Enfermeiro</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Enfermeiro do PSF</td>
+                    <td>7264.04</td>
+                    <td>8031.91</td>
+                    <td>767.87</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Engenheiro</td>
+                    <td>8383.30</td>
+                    <td>9269.48</td>
+                    <td>886.18</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Farmacêutico</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Fiscal Municipal</td>
+                    <td>3368.31</td>
+                    <td>3724.38</td>
+                    <td>356.07</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Fisioterapeuta</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Fonoaudiólogo</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Fotógrafo</td>
+                    <td>2062.01</td>
+                    <td>2279.98</td>
+                    <td>217.97</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Geógrafo</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Geólogo</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Guarda Civil Municipal</td>
+                    <td>3389.14</td>
+                    <td>3747.39</td>
+                    <td>358.25</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Mecânico</td>
+                    <td>2062.01</td>
+                    <td>2279.98</td>
+                    <td>217.97</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Médico do PSF</td>
+                    <td>19947.11</td>
+                    <td>22055.69</td>
+                    <td>2108.58</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Médico Plantonista (por hora)</td>
+                    <td>107.70</td>
+                    <td>119.09</td>
+                    <td>11.39</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Médico Veterinário</td>
+                    <td>8383.30</td>
+                    <td>9269.48</td>
+                    <td>886.18</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Monitor de Alunos</td>
+                    <td>1562.69</td>
+                    <td>1717.88</td>
+                    <td>155.19</td>
+                    <td>9.93%</td>
+                </tr>
+                <tr>
+                    <td>Motorista</td>
+                    <td>2062.01</td>
+                    <td>2279.98</td>
+                    <td>217.97</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Museólogo</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Nutricionista</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Oficial de Manutenção</td>
+                    <td>1733.49</td>
+                    <td>1916.72</td>
+                    <td>183.23</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Operador de Máquinas</td>
+                    <td>2904.37</td>
+                    <td>3211.39</td>
+                    <td>307.02</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Prefeito</td>
+                    <td>18649.45</td>
+                    <td>20620.84</td>
+                    <td>1971.39</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Presidente Embuprev</td>
+                    <td>17872.37</td>
+                    <td>19761.63</td>
+                    <td>1889.26</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Procurador</td>
+                    <td>8383.30</td>
+                    <td>9269.48</td>
+                    <td>886.18</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Professor Adjunto</td>
+                    <td>1085.98</td>
+                    <td>1321.15</td>
+                    <td>235.17</td>
+                    <td>21.65%</td>
+                </tr>
+                <tr>
+                    <td>Professor de Desenvolvimento Infantil</td>
+                    <td>3584.53</td>
+                    <td>3963.46</td>
+                    <td>378.93</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Professor Educação Básica I</td>
+                    <td>3584.53</td>
+                    <td>3963.46</td>
+                    <td>378.93</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Professor Educação Básica II</td>
+                    <td>3584.53</td>
+                    <td>3963.46</td>
+                    <td>378.93</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Psicólogo</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Psicopedagogo</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Secretário Adjunto</td>
+                    <td>9690.00</td>
+                    <td>10150.40</td>
+                    <td>460.40</td>
+                    <td>4.75%</td>
+                </tr>
+                <tr>
+                    <td>Secretário de Escola</td>
+                    <td>1768.10</td>
+                    <td>1955.00</td>
+                    <td>186.90</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Secretário Municipal</td>
+                    <td>17872.37</td>
+                    <td>19761.63</td>
+                    <td>1889.26</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Sepultador</td>
+                    <td>1733.49</td>
+                    <td>1916.72</td>
+                    <td>183.23</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Subprefeito</td>
+                    <td>17872.37</td>
+                    <td>19761.63</td>
+                    <td>1889.26</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Técnico de Enfermagem do PSF</td>
+                    <td>2904.37</td>
+                    <td>3211.39</td>
+                    <td>307.02</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Técnico de Edificações</td>
+                    <td>2062.01</td>
+                    <td>2279.98</td>
+                    <td>217.97</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Técnico de Enfermagem</td>
+                    <td>2062.01</td>
+                    <td>2279.98</td>
+                    <td>217.97</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Técnico de Segurança do Trabalho</td>
+                    <td>2062.01</td>
+                    <td>2279.98</td>
+                    <td>217.97</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Técnico Desportivo</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Técnico em Saúde Bucal</td>
+                    <td>2062.01</td>
+                    <td>2279.98</td>
+                    <td>217.97</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Técnico em Tecnologia da Informação</td>
+                    <td>2062.01</td>
+                    <td>2279.98</td>
+                    <td>217.97</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Técnico Imobilização Ortopédica</td>
+                    <td>2062.01</td>
+                    <td>2279.98</td>
+                    <td>217.97</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Telefonista</td>
+                    <td>1316.59</td>
+                    <td>1455.77</td>
+                    <td>139.18</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Terapeuta Ocupacional</td>
+                    <td>5656.04</td>
+                    <td>6253.93</td>
+                    <td>597.89</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Topógrafo</td>
+                    <td>2062.01</td>
+                    <td>2279.98</td>
+                    <td>217.97</td>
+                    <td>10.57%</td>
+                </tr>
+                <tr>
+                    <td>Vice-Prefeito</td>
+                    <td>17872.37</td>
+                    <td>19761.63</td>
+                    <td>1889.26</td>
+                    <td>10.57%</td>
+                </tr>
             </tbody>
         </table>
     </div>
